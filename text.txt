@@ -1,0 +1,70 @@
+header
+    logo header__logo header__logo--activ
+    header__nav 
+        header__nav-link
+    btn btn--accented header__btn
+
+hero 
+    hero__about
+        hero__title
+        hero__text
+        hero__btns
+            btn btn--w-icon btn--discord btn--accented
+            btn btn--w-icon btn--twitter
+    hero__img
+
+club
+    club__title
+    club__text
+    btn
+
+collection
+    collection__title
+    collection__ribbon
+        collection__img
+
+activities
+    activities__title
+    activities__cards
+        activities__card
+            activities__img
+            activities__description
+    activities__text
+
+milestones
+    milestones__title
+    milestones__ladder
+        milestones__list
+            milestones__item
+                milestones__gauge
+                milestones__item-description
+                    milestones__item-status
+                    milestones__item-text
+        milestones__list
+            milestones__item
+                milestones__gauge
+                milestones__item-description
+                    milestones__item-status
+                    milestones__item-title
+                    milestones__item-text
+                
+faqs
+    faqs__title
+    faqs__list
+        faqs__item 
+            faqs__item-toggler
+            faqs__question
+            faqs__answer
+        
+team
+    team__title
+    team__cards
+        team__card
+            team__ava
+            team__name
+            team__role
+
+footer
+    footer__title
+    footer__social
+        footer__icon
